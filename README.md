@@ -1,3 +1,6 @@
+Hi there 👋
+I'm Md Mahin Hossen
+
 - 🌱 I'm currently working on AI/ML project
 - 🏋 I'm currently learning AI/ML fundamentals and Robotics integration
 - 🤝 I'm looking to collaborate on Robotics + AI/ML projects, and competitive programming challenges
