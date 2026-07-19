@@ -5,7 +5,7 @@ I'm Md Mahin Hossen
 - 🏋 I'm currently learning AI/ML fundamentals and Robotics integration
 - 🤝 I'm looking to collaborate on Robotics + AI/ML projects, and competitive programming challenges
 - 🧠 I'm looking for help with Machine Learning for Robotics (perception, control systems)
-- 💬 Ask me about C++, Python, Competitive Programming, Robotics
+- 💬 Ask me about C, C++, Python, Competitive Programming, Robotics
 - 📫 How to reach me: mmdmahinhossen615@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Heading to ITMO University (St. Petersburg) to study Mechatronics & Robotics on the Open Door Scholarship, and aiming to compete in ICPC
