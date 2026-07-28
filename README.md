@@ -1,21 +1,38 @@
-Hi there 👋
-I'm Md Mahin Hossen
+<h1 align="center">Hi 👋, I'm Md Mahin Hossen</h1>
+<h3 align="center">Aspiring Robotics & AI Developer | Competitive Programmer</h3>
+<img align="right" alt="coding" widht="400" src="<img width="437" height="259" alt="image" src="https://github.com/user-attachments/assets/f01d4d2c-abd0-4265-840c-3a2d713884ca" />">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmh404&label=Profile%20views&color=0e75b6&style=flat" alt="mmh404" /> </p>
 
-- 🌱 I'm currently working on AI/ML project
-- 🏋 I'm currently learning AI/ML fundamentals and Robotics integration
-- 🤝 I'm looking to collaborate on Robotics + AI/ML projects, and competitive programming challenges
-- 🧠 I'm looking for help with Machine Learning for Robotics (perception, control systems)
-- 💬 Ask me about C, C++, Python, Competitive Programming, Robotics
-- 📫 How to reach me: mmdmahinhossen615@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Heading to ITMO University (St. Petersburg) to study Mechatronics & Robotics on the Open Door Scholarship, and aiming to compete in ICPC
+- 🔭 I’m currently working on **AI/ML project**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mmdmahinhossen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mmdmahinhossen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahinhossen404/)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+- 🌱 I’m currently learning **AI/ML fundamentals and Robotics integration**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MMH404&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MMH404&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MMH404&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👯 I’m looking to collaborate on **Robotics + AI/ML projects, and competitive programming challenges**
+
+- 🤝 I’m looking for help with **Machine Learning for Robotics (perception, control systems)**
+
+- 💬 Ask me about **C, C++, Python, Competitive Programming, Robotics**
+
+- 📫 How to reach me **mmahinhossen615@gmail.com**
+
+- 📄 Know about my experiences [https://mmh404.github.io/portfolio-2/](https://mmh404.github.io/portfolio-2/)
+
+- ⚡ Fun fact **Heading to ITMO University (St. Petersburg) to study Mechatronics & Robotics on the Open Door Scholarship, and aiming to compete in ICPC**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahinhossen404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahinhossen404/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mmdmahinhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mmdmahinhossen" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mmdmahinhossen/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mmdmahinhossen/?hl=en" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/mmh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mmh02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mmh404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mmh404/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmh404&show_icons=true&locale=en&layout=compact" alt="mmh404" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmh404&show_icons=true&locale=en" alt="mmh404" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmh404&" alt="mmh404" /></p>
