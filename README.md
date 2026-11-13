@@ -2,7 +2,7 @@
 Hi there 👋
 <h1 align="center">I'm Md Mahin Hossen</h1>
 
-<h3 align="center">Aspiring Cybersecurity Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst | Competitive Programmer</h3>
 
 - 🌱 I'm currently working on cybersecurity scripts and security automation projects
 - 🛡️ I'm currently learning network security, ethical hacking fundamentals, and system hardening
